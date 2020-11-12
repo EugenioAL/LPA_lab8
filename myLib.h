@@ -8,5 +8,5 @@ struct prefixo
     unsigned char mpg3;
 };
 
-
+int print_mpg(char * arq);
 #endif
